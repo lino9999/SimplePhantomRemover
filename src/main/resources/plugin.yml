@@ -1,0 +1,4 @@
+name: SimplePhantomRemover
+version: '1.0'
+main: com.Lino.simplePhantomRemover.SimplePhantomRemover
+api-version: '1.21'
